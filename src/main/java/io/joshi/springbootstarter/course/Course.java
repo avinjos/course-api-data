@@ -9,7 +9,7 @@ import io.joshi.springbootstarter.topic.Topic;
 @Entity
 
 public class Course {
-
+	// PrimaryKey
 	@Id
 	private String id;
 	private String name;
